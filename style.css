@@ -1,0 +1,16 @@
+img {
+ transition: trasform .2s;
+border: 10px solid #AAAAAA;
+width: 600px; 
+height: 500px;
+}
+img:hover {
+transform: scale(0.9);
+}
+h1 {
+font-size: 80px;
+text-align: center;
+}
+body {
+background:#8ff2a4; 
+}
